@@ -1,3 +1,5 @@
+bug fix
+
 # magpie-community plugins
 
 [OpenCode](https://opencode.ai) provider plugins for coding-plan
